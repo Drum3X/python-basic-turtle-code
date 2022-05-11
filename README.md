@@ -1,7 +1,7 @@
 # I'm more white than you. You look gypsy.
 
 # linux
-```sh
+```py
 apt update
 apt upgrade
 apt install python3
@@ -11,6 +11,6 @@ python3 main.py
 ```
 
 # windows
-```cmd
+```py
 dont use gaydows btw
 ```
