@@ -5,8 +5,6 @@
 apt update
 apt upgrade
 apt install python3
-apt install python3-pip
-pip3 install turtle
 python3 main.py
 ```
 
